@@ -26,7 +26,11 @@ app_license = "MIT"
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-doctype_js = {"Purchase Order" : "public/js/purchase_order.js"}
+doctype_js = {
+    "Purchase Order" : "public/js/purchase_order.js",
+    "Purchase Receipt" : "public/js/purchase_receipt.js",
+    "Purchase Invoice" : "public/js/purchase_invoice.js"
+    }
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
@@ -126,6 +130,8 @@ doctype_js = {"Purchase Order" : "public/js/purchase_order.js"}
 override_doctype_dashboards = {
 	"Task": "task_customizer.config.task_dashboard.get_data",
     "Purchase Order": "task_customizer.config.purchase_order_dashboard.get_data",
+    "Purchase Receipt": "task_customizer.config.purchase_receipt_dashboard.get_data",
+    "Purchase Invoice": "task_customizer.config.purchase_invoice_dashboard.get_data",
 }
 
 
