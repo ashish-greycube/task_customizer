@@ -3,7 +3,7 @@ from frappe import _
 
 def get_data(data):
 	internal_links=data['internal_links']
-	internal_links['Task']=['items', 'task']
+	internal_links['Task']=['items', 'task_cf']
 	data['internal_links']=internal_links 
 
 	transactions=data['transactions']
