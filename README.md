@@ -11,9 +11,9 @@ Purchase linking functionality for Task. Similar to Projects.
 ![Purchase Invoice DocType Task Reference Dashaboard](/assets/img/PurchaseInvoiceTaskLinkDashboard.png "Purchase Invoice DocType Task Reference Dashaboard")
 
 
-![Filter Task](https://github.com/ashish-greycube/task_customizer/blob/task_customizer/filter_task.png)
-![Task Dashboard](https://github.com/ashish-greycube/task_customizer/blob/task_customizer/task_dashboard.png)
-![Purchase Order Dashboard](https://github.com/ashish-greycube/task_customizer/blob/task_customizer/purchase_order_dashboard.png)
+![Filter Task](https://github.com/ashish-greycube/task_customizer/blob/master/task_customizer/filter_task.png?raw=true)
+![Task Dashboard](https://github.com/ashish-greycube/task_customizer/blob/master/task_customizer/task_dashboard.png?raw=true)
+![Purchase Order Dashboard](https://github.com/ashish-greycube/task_customizer/blob/master/task_customizer/purchase_order_dashboard.png?raw=true)
 ![Purchase Invoice Dashboard : Project Ref](https://github.com/ashish-greycube/task_customizer/blob/master/task_customizer/purchase_invoice_dashboard_project_ref.png?raw=true)
 #### License
 
