@@ -2,7 +2,8 @@
 
 Purchase linking functionality for Task. Similar to Projects.
 
-![Task DocType Purchase Reference Dashaboard](task_customizer/assets/img/TaskPurchaseReferenceDashboard.png =300x200 "Task DocType Purchase Reference Dashaboard")
+<img src="task_customizer/assets/img/TaskPurchaseReferenceDashboard.png " width="300" height="200"/>
+
 
 
 ![Purchase Order DocType Task Reference Dashaboard](task_customizer/assets/img/PurchaseOrderTaskLinkDashabord.png =300x200 "Purchase Order DocType Task Reference Dashaboard")
