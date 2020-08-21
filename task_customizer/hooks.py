@@ -27,6 +27,7 @@ app_license = "MIT"
 
 # include js in doctype views
 doctype_js = {
+    "Request for Quotation" : "public/js/request_for_quotation.js",
     "Purchase Order" : "public/js/purchase_order.js",
     "Purchase Receipt" : "public/js/purchase_receipt.js",
     "Purchase Invoice" : "public/js/purchase_invoice.js"
@@ -129,9 +130,11 @@ doctype_js = {
 # along with any modifications made in other Frappe apps
 override_doctype_dashboards = {
 	"Task": "task_customizer.config.task_dashboard.get_data",
+    "Project": "task_customizer.config.project_dashboard.get_data",
     "Purchase Order": "task_customizer.config.purchase_order_dashboard.get_data",
     "Purchase Receipt": "task_customizer.config.purchase_receipt_dashboard.get_data",
     "Purchase Invoice": "task_customizer.config.purchase_invoice_dashboard.get_data",
+    "Request for Quotation": "task_customizer.config.request_for_quotation_dashboard.get_data"
 }
 
 
